@@ -1,0 +1,195 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.maincontainer {
+    background-color: #67676729;
+    height: 900px;
+    width: 100%;
+    text-align: left 100px;
+}
+
+.nav {
+    background-color: white;
+    height: 80px;
+    width: 100%;
+
+}
+
+.box {
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    width: 980px;
+    height: 600px;
+    margin-left: 245px;
+
+}
+
+.item1 {
+    background-color: white;
+    width: 250px;
+    height: 300px;
+    text-align: center;
+    margin: 20px;
+
+
+
+}
+
+.item1:hover {
+    box-shadow: 3px 0px 7px 5px #d2cdcd;
+}
+
+.item2 {
+    background-color: white;
+    width: 250px;
+    height: 300px;
+    text-align: center;
+    margin: 20px;
+}
+
+.item3 {
+    background-color: white;
+    width: 250px;
+    height: 300px;
+    text-align: center;
+    margin: 20px;
+}
+
+.item4 {
+    background-color: white;
+    width: 250px;
+    height: 300px;
+    text-align: center;
+    margin: 20px;
+}
+
+.item5 {
+    background-color: white;
+    width: 250px;
+    height: 300px;
+    text-align: center;
+    margin: 20px;
+}
+h3{
+    padding: 10px;
+}
+
+.fa-sharp {
+    padding: 20px;
+    width: 10px;
+
+}
+
+.ancor {
+    text-decoration: none;
+    font-size: large;
+    color: #00A5EC;
+    margin-left: 1110px;
+    margin-top: 10px;
+
+}
+
+h3 {
+    color: #00A5EC;
+}
+
+span {
+    color: #00A5EC;
+    margin: 5px;
+}
+
+h1 {
+    margin-left: 70px;
+    margin-top: 30px;
+}
+.trip
+{
+    text-decoration: none;
+}
+
+
+/* PAGE 2 */
+
+
+.second {
+    background-color: #67676729;
+    width: 400px;
+    height: 40px;
+margin-left: 50px;
+
+}
+h5
+{
+    padding: 8px;
+}
+.prime
+{
+    height: 200px;
+    width: 500px;
+    background-color: white;
+    border-radius: 10px;
+    margin-left: 475px;
+    margin-top: 300px;
+    border: 2px solid black;
+    position: absolute;
+    top: 5%;
+}
+h2
+{
+    margin-left: 25px;
+}
+button{
+    margin-left: 400px;
+    background-color: #00A5EC;
+    color: white;
+}
+.blurr
+{
+    filter: blur(1px);
+    opacity: 1px;
+}
+
+
+/* page3 */
+
+
+.first
+{
+    text-align: left 100px;
+    height: 900px;
+    width: 100%;
+    background-color: #67676729;
+}
+.navigation
+{
+    background-color: white;
+    height: 80px;
+    width: 100%;
+}
+.box1
+{
+    background-color: white;
+    width: 250px;
+    height: 300px;
+    text-align: center;
+    margin: 20px;
+    margin-left: 630px;
+    margin-top: 175px;
+    
+}
+.box1:hover
+{
+    box-shadow: 3px 0px 7px 5px #d2cdcd;
+}
+
+
+/* page 4 */
+
+.blurr4
+{
+    filter: blur(1px);
+    opacity: 0.5px;
+}
